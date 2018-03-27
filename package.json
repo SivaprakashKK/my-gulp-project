@@ -1,0 +1,19 @@
+{
+  "name": "my-gulp-project",
+  "version": "1.0.0",
+  "description": "Gulp Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp "
+  },
+  "author": "SivaprakashKK",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
